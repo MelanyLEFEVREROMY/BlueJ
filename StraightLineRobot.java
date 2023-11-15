@@ -2,7 +2,7 @@ import java.util.Random;
 /**
  * The StraightLineRobot moves in a straight line in a random direction.
  *
- * @author Nour Dorya DHIF
+ * @author Nour DHIF
  * @version 02/11/2023
  */
 
